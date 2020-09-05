@@ -7,7 +7,7 @@ Mini chat basée sur le modèle MVC en PHP 5 / MySQL / HTML 5
 <h5>Installation</h5>
 <ul>
 <li>Modification de la configuration de la base de données dans config/config.ini</li>
-<li>Installer la base de données config/base.sql</li>
+<li>Installer la base de données base.sql</li>
 <li>Pointé le hots dans le chemin /public/</li>
 </ul>
 
